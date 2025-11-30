@@ -11,11 +11,9 @@ DeepSeek
 大疆
 DJI
 
-!车
+车
 !餐
 
-
-申奥
 
 京东
 刘强东
@@ -52,6 +50,8 @@ iphone
 ipad
 mac
 ios
+macos
+!广告
 
 ai
 !gai
